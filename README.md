@@ -1,0 +1,3 @@
+Para practicar, usar este prompt en chat gpt o su IA de confianza:
+"Puedes generar un archivo .txt y un enunciado tipo solemne para practicar, este debe pedirme hacer operaciones. En caso de poder, solamente arroja el siguiente ejercicio cuando tengas mi codigo, en caso de que mi respuesta sea erronea, corrigela, si no está buena, no me enviaras el siguiente ejercicio"
+De esta manera, podrás practicar adecuadamente, puedes ajustarlo según tus necesidades.
